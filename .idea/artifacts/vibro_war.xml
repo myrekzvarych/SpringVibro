@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="vibro:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SpringVibro.war">
+      <element id="artifact" artifact-name="vibro:war exploded" />
+    </root>
+  </artifact>
+</component>
